@@ -12,3 +12,6 @@ print(f"The number {num} is {result}.")
 
 # agregue el print
 print("2 + 2 = 4")
+
+# agregue el print
+print("2 + 2 = 5")
