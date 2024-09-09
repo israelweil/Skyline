@@ -9,3 +9,6 @@ def check_even_odd(number):
 num = 42
 result = check_even_odd(num)
 print(f"The number {num} is {result}.")
+
+# agregue el print
+print("2 + 2 = 4")
